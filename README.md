@@ -1,2 +1,3 @@
 # learning_python
-Beginner code
+Beginner code.
+This code resides in ~/odm/src/learning_python on work PC.
